@@ -1,0 +1,22 @@
+# SEGREDOS
+.env
+.env.*
+!.env.example
+
+# BANCO LOCAL
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# PYTHON
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# EDITORES / SISTEMA
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
